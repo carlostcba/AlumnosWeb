@@ -1,4 +1,4 @@
-5. **Editar el archivo `.env`** con tus credenciales:
+**Editar el archivo `.env`** con tus credenciales:
 ```env
 # Configuracion del servidor
 PORT=3000
